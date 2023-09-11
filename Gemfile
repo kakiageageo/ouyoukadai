@@ -45,6 +45,8 @@ group :development do
   gem 'spring'
 end
 
+gem 'jquery-rails'
+
 group :test do
   gem 'capybara', '>= 2.15'
   gem 'rspec-rails'
